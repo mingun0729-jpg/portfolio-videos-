@@ -2,10 +2,10 @@
 
 김민건 · 연암공과대학교 전기전자공학과
 
-| 작품 | 수상 | 영상 |
-| --- | --- | --- |
-| 연암공대 RPG — 커너비의 취업 퀘스트 | 「AI 크리에이티브 챌린지」 대상 | [koneobi-quest.mp4](https://github.com/mingun0729-jpg/portfolio-videos-/releases/download/v1.0/koneobi-quest.mp4) |
-| 혁신으로 성장한 나의 캠퍼스 스토리 | 「혁신으로 성장한 나의 캠퍼스 스토리 공모전」 대상 | [campus-story.mp4](https://github.com/mingun0729-jpg/portfolio-videos-/releases/download/v1.0/campus-story.mp4) |
+| 작품 | 수상 | 영상 보기 | 내려받기 |
+| --- | --- | --- | --- |
+| 연암공대 RPG — 커너비의 취업 퀘스트 | 「AI 크리에이티브 챌린지」 대상 | [koneobi-quest.mp4](./koneobi-quest.mp4) | [릴리스 v1.0](https://github.com/mingun0729-jpg/portfolio-videos-/releases/download/v1.0/koneobi-quest.mp4) |
+| 혁신으로 성장한 나의 캠퍼스 스토리 | 「혁신으로 성장한 나의 캠퍼스 스토리 공모전」 대상 | [campus-story.mp4](./campus-story.mp4) | [릴리스 v1.0](https://github.com/mingun0729-jpg/portfolio-videos-/releases/download/v1.0/campus-story.mp4) |
 
 ## 작품 소개
 
@@ -17,6 +17,8 @@
 
 ## 보기
 
-플레이어 페이지: https://mingun0729-jpg.github.io/portfolio-videos-/
+- 플레이어 페이지: https://mingun0729-jpg.github.io/portfolio-videos-/
+- 릴리스: https://github.com/mingun0729-jpg/portfolio-videos-/releases/tag/v1.0
 
-영상은 GitHub Releases(v1.0) 에셋으로 올려 두었고, 플레이어 페이지가 그 직링크를 그대로 재생합니다.
+영상은 이 저장소에 함께 올려 두었고, 같은 파일을 릴리스(v1.0) 에셋으로도 받을 수 있습니다.
+플레이어 페이지(index.html)는 저장소의 영상 파일을 그대로 재생합니다.
